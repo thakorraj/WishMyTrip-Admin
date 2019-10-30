@@ -9,6 +9,8 @@
       <a href="#">My App</a></li>
         <li><a href="listusers.php">Users</a></li>
         <li><a href="listproviders.php">Providers</a></li>
+        <li><a href="listplaces.php">Places</a></li>
+        <li><a href="listhotels.php">Hotels</a></li>
         
       </ul>
       
